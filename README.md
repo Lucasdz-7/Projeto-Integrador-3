@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Sprint Coders
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
