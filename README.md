@@ -88,6 +88,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
+| 00                | 24/03/2026 | Concluído  | [MVP](MVP/sp1.md)  |
 | 01                | 14/04/2026 | Em andamento  | [MVP](MVP/sp1.md)  |
 | 02                | 12/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 02/06/2025 | a fazer  | [MVP](MVP/sp3.md)  |
