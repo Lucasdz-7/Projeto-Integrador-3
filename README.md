@@ -1,5 +1,7 @@
 # Sprint Coders
 
+![image alt](https://github.com/Luacripton/Projeto-Integrador-3/blob/main/API%20SprintCoders.png?raw=true)
+
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
