@@ -30,7 +30,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- 1. PowerBI
+| Tecnologias Específicas/Apoio | Tecnologias da Informação |
+ |---------------------------------------------------------------------------------------------------------------|---------|
+ | ![image alt](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | PowerBi |
+ | ![image alt](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Linguagem Python |
+ | ![image alt](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | Colab |
+ | ![image alt](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | Biblioteca Pandas |
+ | ![image alt](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) | Linguagem DAX (Data Analysis Expressions) |
  3. Linguagem Python
  4. Colab
  5. Biblioteca Pandas
