@@ -29,25 +29,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 ## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
 | Tecnologias Específicas/Apoio | Tecnologias da Informação |
  |---------------------------------------------------------------------------------------------------------------|---------|
- | ![image alt](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | PowerBi |
- | ![image alt](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Linguagem Python |
- | ![image alt](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | Colab |
- | ![image alt](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | Biblioteca Pandas |
- | ![image alt](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) | Linguagem DAX (Data Analysis Expressions) |
- 3. Linguagem Python
- 4. Colab
- 5. Biblioteca Pandas
- 6. Linguagem DAX (Data Analysis Expressions)
-  
- ### Tecnologias da Informação
-1. Whatsapp
-2. Discord
-3. Linkedin
-4. Github
-
+ | ![image alt](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | ![image alt](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) |
+ | ![image alt](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![image alt](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
+ | ![image alt](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![image alt](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
+ | ![image alt](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![image alt](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+ | ![image alt](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
