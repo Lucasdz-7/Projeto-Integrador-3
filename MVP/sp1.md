@@ -52,10 +52,10 @@ Visualização clara e dinâmica de métricas como mortalidade, sinistros, frota
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | Coleta e tratamento de dados (PRF e SENATRAN)| Concluído|
-| 01     | Consolidação e estruturação dos dados        | Concluído|
+| Sprint | Entregas Principais                          |  Status   |
+|--------|----------------------------------------------|-----------|
+| 01     | Coleta e tratamento de dados (PRF e SENATRAN)| Concluído |
+| 01     | Consolidação e estruturação dos dados        | Concluído |
 | 01     | Protótipo do Dashboard Power BI              | Concluído |
 
 ---
