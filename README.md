@@ -2,7 +2,9 @@
 
 ![image alt](https://github.com/Luacripton/Projeto-Integrador-3/blob/main/API%20SprintCoders.png?raw=true)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)
+---
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -62,12 +64,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Rank | Prioridade | User Story                                                                                         | Estimativa | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como Coordenador do Projeto: Quero acessar os dados da PRF de 2023 e 2024 sobre óbitos e sinistros de trânsito em um dataframe estruturado em Python para construção do dashboard.                                                                      | 3          | 1      |
-| 2    | Alta       |Como Coordenador do Projeto: Quero acessar os dados do SENATRAN de 2023 e 2024 sobre a frota de veículos pesados em um dataframe estruturado em python para construção do dashboard.                                                                      | 3          | 1      |
-| 3    | Alta      | Quero visualizar um gráfico de correlação de Pearson entre os indicadores de frota e óbitos nos anos de 2023 e 2024, para identificar e analisar a relação entre essas variáveis                                                                                 | 1          | 1      |
-| 4    | Média      | Quero que os dados de 2023 e 2024 sobre frota de veículos, óbitos e sinistros estejam agrupados em um único dataframe para construção do dashboard.                                                                                                            | 3          | 1      |
-| 5    | Baixa      | Quero visualizar um protótipo básico do dashboard final através do canva para avaliar a estrutura e funcionalidades iniciais do sistema.                                                                                                                 | 5          | 1      |
-| 6    | Alta       | Quero visualizar um gráfico da taxa de mortalidade por estado para identificar quais regiões apresentam maior risco no trânsito.                                                                                                                                 | 2          | 2      |
-| 7    | Alta       | Quero visualizar um gráfico da taxa de letalidade por estado para identificar quais regiões apresentam maior gravidade nos sinistros de trânsito.                                                                                                                | 2          | 2      |
+| 2    | Alta       | Como Coordenador do Projeto: Quero acessar os dados do SENATRAN de 2023 e 2024 sobre a frota de veículos pesados em um dataframe estruturado em python para construção do dashboard.                                                                      | 3          | 1      |
+| 3    | Alta      | Como Coordenador do Projeto: Quero visualizar um gráfico de correlação de Pearson entre os indicadores de frota e óbitos nos anos de 2023 e 2024, para identificar e analisar a relação entre essas variáveis                                                                                 | 1          | 1      |
+| 4    | Média      | Como Coordenador do Projeto: Quero que os dados de 2023 e 2024 sobre frota de veículos, óbitos e sinistros estejam agrupados em um único dataframe para construção do dashboard.                                                                                                            | 3          | 1      |
+| 5    | Baixa      | Como Coordenador do Projeto: Quero visualizar um protótipo básico do dashboard final através do canva para avaliar a estrutura e funcionalidades iniciais do sistema.                                                                                                                 | 5          | 1      |
+| 6    | Alta       | Como Coordenador do Projeto: Quero visualizar um gráfico da taxa de mortalidade por estado para identificar quais regiões apresentam maior risco no trânsito.                                                                                                                                 | 2          | 2      |
+| 7    | Alta       | Como Coordenador do Projeto: Quero visualizar um gráfico da taxa de letalidade por estado para identificar quais regiões apresentam maior gravidade nos sinistros de trânsito.                                                                                                                | 2          | 2      |
 | 8    | Alta       | Como Coordenador do Projeto: Quero visualizar a análise de eficiência em segurança viária utilizando o modelo DEA para idetificar os 20 municípios com melhor desempenho no país, por meio de um dataframe e gráfico gerados em Python.                          | 2          | 2      |
 | 9    | Média      | Como Coordenador do Projeto: Quero visualizar um gráfico que identifique os dias da semana e períodos do dia (manhã, tarde e noite) com maior probabilidade de ocorrência de sinistros de trânsito, para apoiar análises e tomadas de decisão.                   | 2          | 2      |
 | 10   | Baixa      | Como Coordenador do Projeto: Quero ver a população total do recorte selecionado para contextualizar os indicadores apresentados.                                                                                                                                 | 1          | 2      |
@@ -84,8 +86,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 00                | 24/03/2026 | Concluído  | [MVP](https://drive.google.com/file/d/1kyGp1E0sGTeqIpghWMxGo7wkRPgJRN8S/view?usp=sharing)  |
-| 01                | 28/04/2026 | Em andamento  | [MVP](MVP/sp1.md)  |
+| 00                | 24/03/2026 | Concluído| [MVP](https://drive.google.com/file/d/1kyGp1E0sGTeqIpghWMxGo7wkRPgJRN8S/view?usp=sharing)  |
+| 01                | 28/04/2026 | Concluído| [MVP](MVP/sp1.md)  |
 | 02                | 12/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 02/06/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
