@@ -78,4 +78,4 @@ Visualização clara e dinâmica de métricas como mortalidade, sinistros, frota
 ---
 
 ## 📂 Anexos / Evidências
-- Vídeo (MVP): [Clique aqui para assistir]
+- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/uxprisSQSZk)
