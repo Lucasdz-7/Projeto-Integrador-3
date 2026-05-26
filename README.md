@@ -82,7 +82,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 16   | Alta      | Como Coordenador do Projeto: Quero visualizar um relatório técnico detalhado para acompanhar os indicadores de eficiência viária, interpretar os resultados do modelo DEA e apoiar a tomada de decisões estratégicas no projeto.                                                                                                       | 15          | 3      |
 
 
-
   
 # Registro das Sprints
 
