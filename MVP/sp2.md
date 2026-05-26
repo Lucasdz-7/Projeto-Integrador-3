@@ -78,7 +78,4 @@ Visualização clara e dinâmica de métricas como mortalidade, sinistros, frota
 ---
 
 ## 📂 Anexos / Evidências
-- Protótipo inicial do dashboard
-- 
-[📄 Protótipo Inicial](https://github.com/Lucasdz-7/Projeto-Integrador-3/blob/main/Docs/prototipo.pdf)
-- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/dvQB7M6k65w)
+- Vídeo (MVP): [Clique aqui para assistir]
