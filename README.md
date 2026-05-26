@@ -88,6 +88,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|----------|-----------|
 | 00                | 24/03/2026 | Concluído| [MVP](https://drive.google.com/file/d/1kyGp1E0sGTeqIpghWMxGo7wkRPgJRN8S/view?usp=sharing)  |
 | 01                | 28/04/2026 | Concluído| [MVP](MVP/sp1.md)  |
-| 02                | 26/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 26/05/2026 | Concluído| [MVP](MVP/sp2.md)  |
 | 03                | 02/06/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
