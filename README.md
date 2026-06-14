@@ -77,7 +77,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 12   | Alta      | Como Coordenador do Projeto: Quero ver a população total do recorte selecionado para contextualizar os indicadores apresentados.                                                                                                                                 | 1          | 2      |
 | 13   | Alta      | Como Coordenador do Projeto: Quero aplicar filtros de ano, estado, e região para analisar os dados de forma personalizada e comparativa.                                                                                                             | 2          | 2      |
 | 14   | Alta      | Como Coordenador do Projeto: Quero visualizar um layout limpo, claro e organizado no dashboard para facilitar a interpretação dos dados e tornar a análise mais intuitiva e eficiente.                 | 2          | 3      |
-
 | 15   | Alta      | Como Coordenador do Projeto: Quero receber um relatório final com as principais descobertas e recomendações para embasar decisões e políticas públicas.                                                                                                      | 15          | 3      |
 | 16   | Alta      | Como Coordenador do Projeto: Quero visualizar um relatório técnico detalhado para acompanhar os indicadores de eficiência viária, interpretar os resultados do modelo DEA e apoiar a tomada de decisões estratégicas no projeto.                                                                                                       | 15          | 3      |
 
@@ -90,5 +89,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 00                | 24/03/2026 | Concluído| [MVP](https://drive.google.com/file/d/1kyGp1E0sGTeqIpghWMxGo7wkRPgJRN8S/view?usp=sharing)  |
 | 01                | 28/04/2026 | Concluído| [MVP](MVP/sp1.md)  |
 | 02                | 26/05/2026 | Concluído| [MVP](MVP/sp2.md)  |
-| 03                | 02/06/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 02/06/2025 | Concluído| [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
