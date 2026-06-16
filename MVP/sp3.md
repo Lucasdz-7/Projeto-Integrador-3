@@ -66,4 +66,5 @@ Visualização integrada de indicadores de mortalidade, letalidade, sinistros, f
 - Dashboard Final em Power BI
 - Repositório GitHub do projeto.
 - Vídeo de apresentação da Sprint 3: [Clique para assistir](https://www.youtube.com/watch?v=hwgeXZZv4hM)
+- Relatório final do projeto: [📄 Relatório Final](https://github.com/Lucasdz-7/Projeto-Integrador-3/blob/main/Docs/Relatorio_Projeto_Integrador_FATEC.pdf)
 - Evidências das entregas realizadas durante o desenvolvimento do projeto.
