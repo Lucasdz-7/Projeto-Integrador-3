@@ -1,6 +1,6 @@
 # Sprint Coders
 
-![image alt](https://github.com/Luacripton/Projeto-Integrador-3/blob/main/API%20SprintCoders.png?raw=true)
+![Logo Sprint Coders](API%20SprintCoders.jpg)
 
 ### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)
 ---
